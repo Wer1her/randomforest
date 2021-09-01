@@ -4,7 +4,7 @@ Created on Sat Jan 23 00:42:19 2021
 
 @author: bi19053
 """
-# aaaa
+# あああ
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
